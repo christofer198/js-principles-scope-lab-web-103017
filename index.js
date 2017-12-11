@@ -14,8 +14,3 @@ function overwriteBestCustomer(){
 }
 
 const leastFavoriteCustomer = 'me!'
-
-function attemptTwoFavoriteCustomers(){
-  let favoriteCustomer = 'Charlie'
-  let favoriteCustomer = 'margie'
- }
